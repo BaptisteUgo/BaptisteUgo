@@ -3,6 +3,8 @@ a=3
 b=-12
 c=13
 
-Je calcule l'abscisse de l'extremum de f(x):
+Je calcule l'abscisse du sommet du graphe de f(x):
 alpha=-b/(2a)=12/6=2
+
+
 
